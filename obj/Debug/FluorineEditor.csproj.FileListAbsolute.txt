@@ -1,0 +1,6 @@
+E:\Vishal\My Folder\Visual Studio 2019\FluorineEditor\bin\Debug\FluorineEditor.exe.config
+E:\Vishal\My Folder\Visual Studio 2019\FluorineEditor\bin\Debug\FluorineEditor.exe
+E:\Vishal\My Folder\Visual Studio 2019\FluorineEditor\bin\Debug\FluorineEditor.pdb
+E:\Vishal\My Folder\Visual Studio 2019\FluorineEditor\obj\Debug\FluorineEditor.csprojAssemblyReference.cache
+E:\Vishal\My Folder\Visual Studio 2019\FluorineEditor\obj\Debug\FluorineEditor.exe
+E:\Vishal\My Folder\Visual Studio 2019\FluorineEditor\obj\Debug\FluorineEditor.pdb

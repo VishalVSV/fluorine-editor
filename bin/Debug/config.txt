@@ -1,0 +1,19 @@
+[keywords]
+namespace
+import
+using
+int
+return
+public
+private
+protected
+partial
+if
+else
+
+[syntax_colors]
+comments = FG_BLUE
+keywords = FG_MAGENTA
+identifiers = FG_CYAN
+default = FG_DARK_GREY
+string = FG_YELLOW
